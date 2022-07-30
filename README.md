@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/solution-faq-accordion-card-jX81fSuSb3](https://www.frontendmentor.io/solutions/solution-faq-accordion-card-jX81fSuSb3)
+- Solution URL: [https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA/hub/social-proof-solution-uf9gTWThAS](https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA/hub/social-proof-solution-uf9gTWThAS)
 - Live Site URL: [https://sebastianfgarcia.github.io/social-proof-frontend-mentor/](https://sebastianfgarcia.github.io/social-proof-frontend-mentor/)
 
 ## Author
